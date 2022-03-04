@@ -1,1 +1,1 @@
-<img src="https://i.giphy.com/media/1GkRWmlZzcE3HLDXQw/giphy.webp" width="100%"/>
+<img src="https://giphy.com/static/img/zoomies-small.gif" width="100%"/>
