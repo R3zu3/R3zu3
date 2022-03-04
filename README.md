@@ -1,1 +1,1 @@
-<img src="https://giphy.com/static/img/zoomies-small.gif" width="100%"/>
+<img src="https://giphy.com/static/img/zoomies.gif" width="100%"/>
