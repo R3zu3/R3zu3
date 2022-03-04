@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @R3zu3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-I like to create and mold worlds from scratch, it gives that incredible feeling of seeing that everything works according to plan.
-
-<!---
-R3zu3/R3zu3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ________  ________  ________  ___  ___  ________     
+|\   __  \|\_____  \|\_____  \|\  \|\  \|\_____  \    
+\ \  \|\  \|____|\ /_\|___/  /\ \  \\\  \|____|\ /_   
+ \ \   _  _\    \|\  \   /  / /\ \  \\\  \    \|\  \  
+  \ \  \\  \|  __\_\  \ /  /_/__\ \  \\\  \  __\_\  \ 
+   \ \__\\ _\ |\_______\\________\ \_______\|\_______\
+    \|__|\|__|\|_______|\|_______|\|_______|\|_______|
