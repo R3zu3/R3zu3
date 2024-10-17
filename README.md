@@ -12,3 +12,5 @@
 ████████████████████████████████████████████████████████████
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
  </pre>
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=r3zu3&theme=dark&hide_border=false)
