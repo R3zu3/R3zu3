@@ -1,4 +1,8 @@
-<img src="r3zu3.svg?v=1" alt="r3zu3" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="r3zu3.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="r3zu3-light.svg?v=1" />
+  <img src="r3zu3-light.svg?v=1" alt="R3zu3" width="100%" />
+</picture>
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
@@ -49,15 +53,4 @@ const renzo = {
 
 <img src="https://skillicons.dev/icons?i=aws,docker,terraform,git,githubactions&theme=dark" alt="cloud & devops" />
 
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-
-## 📊 GitHub Stats
-
-![Stats](https://streak-stats.demolab.com/?user=R3zu3&theme=dark&hide_border=true)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R3zu3/R3zu3/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R3zu3/R3zu3/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/R3zu3/R3zu3/output/github-contribution-grid-snake.svg" />
-</picture>
 
