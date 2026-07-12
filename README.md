@@ -1,4 +1,4 @@
-<img src="assets/renzo.svg" alt="RENZO" width="100%" />
+<img src="renzo.svg" alt="RENZO" width="100%" />
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
