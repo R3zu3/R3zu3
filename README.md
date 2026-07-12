@@ -18,7 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Renzo%20%C2%B7%20R3zu3&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=F7F7F7&center=true&width=435&lines=CTO+%26+Co-founder+%40+Uisr;Frontend-obsessed+full-stack+engineer;I+build+and+mold+worlds+from+scratch)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=803&lines=CTO+%26+Co-founder+%40+Uisr;Frontend-obsessed+full-stack+engineer;I+build+and+mold+worlds+from+scratch)](https://git.io/typing-svg)
 
 </div>
 
