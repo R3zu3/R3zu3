@@ -18,13 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Renzo%20%C2%B7%20R3zu3&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=CTO+%26+Co-founder+%40+Uisr;Frontend-obsessed+full-stack+engineer;I+build+and+mold+worlds+from+scratch" alt="Typing SVG" />
-</a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=R3zu3&label=Profile%20views&color=7AA2F7&style=for-the-badge" alt="profile views" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F7F7F7&center=true&width=435&lines=CTO+%26+Co-founder+%40+Uisr;Frontend-obsessed+full-stack+engineer;I+build+and+mold+worlds+from+scratch)](https://git.io/typing-svg)
 
 </div>
 
