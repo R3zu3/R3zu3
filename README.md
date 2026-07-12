@@ -68,23 +68,6 @@ const renzo = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=R3zu3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3zu3&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="top langs" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=R3zu3&theme=dark&hide_border=true" alt="streak" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=R3zu3&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
-
 </div>
-
-
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
