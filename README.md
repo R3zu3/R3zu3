@@ -73,7 +73,7 @@ const renzo = {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=R3zu3&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=R3zu3&theme=dark&hide_border=true" alt="streak" />
 
 <br/><br/>
 
@@ -81,38 +81,10 @@ const renzo = {
 
 </div>
 
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
-## 🌐 Connect
-
-<div align="center">
-
-<a href="https://uisr.io">
-  <img src="https://img.shields.io/badge/Uisr-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Uisr" />
-</a>
-<a href="https://instagram.com/r_zue">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
 
 </div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
-
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=r3zu3&theme=dark&hide_border=false)
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=r3zu3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-![](https://visitcount.itsvg.in/api?id=R3zu3&icon=0&color=0)
