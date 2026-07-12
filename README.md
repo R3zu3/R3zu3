@@ -55,3 +55,5 @@ const renzo = {
 
 ![Stats](https://streak-stats.demolab.com/?user=R3zu3&theme=dark&hide_border=true)
 
+![snake](github-contribution-grid-snake-dark.svg?palette=github-dark)
+
