@@ -24,7 +24,7 @@ const renzo = {
 };
 ```
 
-- 🚀 Building **[MiDespacho](https://midespacho.cloud/)** — the product behind Uisr.
+- 🚀 Building **[MiDespacho](https://midespacho.cloud/)** — the product behind [Uisr](https://uisr.io/).
 - 🎨 Full-stack, but the frontend is where I feel at home.
 - 🤖 Tinkering with local AI models & ComfyUI in my spare time.
 - 🌱 Big on planning, bigger on iterating.
