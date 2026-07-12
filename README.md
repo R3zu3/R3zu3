@@ -51,8 +51,5 @@ const renzo = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Stats](https://streak-stats.demolab.com/?user=R3zu3&theme=dark&hide_border=true)
 
-<img src="https://streak-stats.demolab.com/?user=R3zu3&theme=dark&hide_border=true" alt="streak" />
-
-</div>
