@@ -1,4 +1,4 @@
-<img src="renzo.svg" alt="RENZO" width="100%" />
+<img src="r3zu3.svg" alt="r3zu3" width="100%" />
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
